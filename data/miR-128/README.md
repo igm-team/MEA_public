@@ -7,5 +7,4 @@ NOTES PERTAINING TO MIR128 MEA DATA FILES
 
 3.To use the package, upload the spikelist and the platemap file and hit run in the GUI. 
 
-Thank you!
 
