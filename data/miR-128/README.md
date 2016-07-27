@@ -5,6 +5,6 @@ NOTES PERTAINING TO MIR128 MEA DATA FILES
 
 2. Each zip file uploaded here contains the time stamp files used in analyses, called spikelist or maptimestamp files, as well as a platemap file. Maptimestamp files are older versions of the time stamp files used in initial experiments. 
 
-3.To use the package, upload the spikelist and the platemap file and hit run in the GUI. 
+3. To use the package, upload the spikelist and the platemap file and hit run in the GUI. 
 
 
